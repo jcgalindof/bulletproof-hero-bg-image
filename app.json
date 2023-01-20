@@ -1,0 +1,7 @@
+{
+	"name": "Bullet Proof Hero with Live Text and Background Image",
+	"description": "A simple hero with live text that works across devices and email clients",
+	"repository": "",
+	"logo": "",
+	"keywords": ["node", "express", "static", "content builder", "block", "blocksdk"]
+}
